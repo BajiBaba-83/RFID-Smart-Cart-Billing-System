@@ -21,7 +21,7 @@ Features
 
 Hardware Used
 
-- ARM7 LPC2129
+- ARM7 LPC2148
 - RFID Reader (MFRC522)
 - RFID Tags
 - LCD 16x2
@@ -39,7 +39,7 @@ Software Used
 
 System Architecture
 
-ARM7 LPC2129
+ARM7 LPC2148
 ↓ UART
 Embedded Linux Application
 ↓
